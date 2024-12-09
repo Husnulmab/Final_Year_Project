@@ -90,7 +90,7 @@ const updateQuantity = async (itemId,size,quantity) => {
     }
 
     const value = {
-        products,currency,delivery_fee,search,setSearch,showSearch,setShowSearch,cartItems,addToCart,getCartAmount,updateQuantity,getCartCount,navigate
+        products,currency,delivery_fee,search,setSearch,showSearch,setShowSearch,cartItems,addToCart,getCartCount,getCartAmount,updateQuantity,navigate
     }
 
     return(
